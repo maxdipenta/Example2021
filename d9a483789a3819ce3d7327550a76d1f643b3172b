@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "626e6789_972fc0c8",
+        "filename": "a.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 1015174
+      },
+      "writtenOn": "2021-10-03T10:39:47Z",
+      "side": 1,
+      "message": "Does not work",
+      "revId": "d9a483789a3819ce3d7327550a76d1f643b3172b",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    }
+  ]
+}
